@@ -24,5 +24,3 @@ A real-time chat application built with Spring Boot and WebSocket. This applicat
 ## Contributing
 Feel free to submit issues or pull requests if you have suggestions or improvements.
 
-## License
-This project is licensed under the MIT License.
